@@ -54,7 +54,7 @@ Each folder corresponds to a different LLM tested in the project.
 
 ---
 
-### 🔹 Mistral Large (Final Model ✅)
+### 🔹 Mistral Large (Final Model)
 - Selected as the main model  
 - Better stability and structured outputs  
 - Improved label merging with constraints  
